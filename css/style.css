@@ -88,11 +88,13 @@ li{
     font-size: 15px;
     padding: 16px;
 }
+/* jumbotrone button */
 .mac{
     padding: 8px;
 }
  li a{
     text-decoration: none;
+    color: white;
     
     
    
@@ -105,6 +107,7 @@ font-size: 15px;
 padding: 15px ;
 margin-left: -20px;
 }
+/* inizio prima sezione */
 .foto-rana{
     margin-top: 120px;
     margin-left: 200px;
@@ -122,4 +125,21 @@ margin-left: -20px;
     
     margin-left: 950px; 
     line-height: 22px;
+}
+
+
+
+/* inizio footer */
+.chiusura-pagina{
+    margin-top: 100px;
+    height: 600px;
+    width: 100%;
+    background-color: black;
+}
+footer-sx{
+    height: 30px;
+    width: 30px;
+    color: violet;
+    background-color: white;
+    z-index: 1;
 }
