@@ -47,7 +47,7 @@ li{
     background-color: #fff;
     color: black;
     padding: 12px;
-    margin-left: 150px;
+    margin-left: 130px;
     
     margin-top: 20px;
     border-radius: 40px;
@@ -65,7 +65,7 @@ li{
 /* header text */
 .header-text{
     text-align: center;
-    margin-top:170px ;
+    margin-top:150px ;
     font-size: 50px;
     margin-bottom: 25px;
     color:white;
@@ -79,4 +79,47 @@ li{
     margin: auto;
     color: white;
     line-height: 27px;
+}
+  .header-text-button-sx a{
+    margin-left: 510px;
+    background-color: white;
+    color: black;
+    border-radius: 28px;
+    font-size: 15px;
+    padding: 16px;
+}
+.mac{
+    padding: 8px;
+}
+ li a{
+    text-decoration: none;
+    
+    
+   
+}
+.header-text-button-dx a{
+background-color: black;
+color:white;
+border-radius: 28px;
+font-size: 15px;
+padding: 15px ;
+margin-left: -20px;
+}
+.foto-rana{
+    margin-top: 120px;
+    margin-left: 200px;
+}
+.rana-text{
+    max-width: 370px;
+    font-size: 40px;
+    margin-top: -410px;
+    margin-left: 950px;
+}
+.rana-sottotitolo{
+    max-width: 370px;
+    font-size: 17px;
+    margin-top: 20px;
+    
+    margin-left: 950px; 
+    line-height: 22px;
 }
