@@ -2,4 +2,56 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    height: 550px ;
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+nav{
+    width: 70%;
+    margin:auto;
+   
+    
+}
+.logo{
+   margin-top: 20px; 
+   display: inline-block;
+   float: left;
+   margin-right: 120px;
+    
+}
+li{
+    display: inline-block;
+    float: left;
+    margin-top:25px ;
+    margin-left:50px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.accedi{
+    background-color: #fff;
+    color: black;
+    padding: 12px;
+    margin-left: 150px;
+    
+    margin-top: 20px;
+    border-radius: 40px;
+    
+    padding: 9px 16px;
+    
+   
+}
+.accedi a{
+    text-decoration: none;
+    color: black;
+
 }
