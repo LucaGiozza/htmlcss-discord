@@ -135,11 +135,56 @@ margin-left: -20px;
     height: 600px;
     width: 100%;
     background-color: black;
+    position: relative;
 }
-footer-sx{
-    height: 30px;
-    width: 30px;
-    color: violet;
-    background-color: white;
-    z-index: 1;
+.parte-sinistra{
+    position: absolute;
+    top: 15%;
+    left: 12%; 
+}
+.footer-sx{
+   color:#7289DA;
+   /* display: inline-block; */
+   font-size: 35px;
+   /* padding: 70px 180px;
+     */
+}
+.bandiera{
+ margin-top: 25px;
+ height: 20px;
+ vertical-align: bottom;
+}
+.ita{
+    color: white;
+    height: 20px;
+    
+   display: inline-block;
+    
+}
+.twitter{
+    color: white;
+  
+    margin-top: 10px;
+    
+    
+   display: inline-block;
+   
+}
+.instagram{
+    color: white;
+   
+    margin-top: 20px;
+    margin-left:20px;
+}
+.facebook{
+    color: white;
+   
+    margin-top: 20px;
+    margin-left:20px; 
+}
+.youtube{
+    color: white;
+   
+    margin-top: 20px;
+    margin-left:20px;  
 }
